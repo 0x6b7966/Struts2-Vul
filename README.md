@@ -4,6 +4,6 @@
 
 Id | Describe | State 
 -------| :--------: | -------------: 
-Harry Potter | Gryffindor| 90 
+DevMode | Apache-Struts2 DevMode RCE| √ 
 Hermione Granger | Gryffindor | 100 
 Draco Malfoy | Slytherin | 90
