@@ -50,16 +50,16 @@ S2-044 | Possible DoS attack when using URLValidator |×
 S2-045 | Possible Remote Code Execution when performing file upload based on Jakarta Multipart parser. |×
 S2-046 | Possible RCE when performing file upload based on Jakarta Multipart parser (similar to S2-045) |×
 S2-047 | Possible DoS attack when using URLValidator (similar to S2-044) |×
-S2-048 | Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series |×
+S2-048 | Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series |√
 S2-049 | A DoS attack is available for Spring secured actions |×
 S2-050 | A regular expression Denial of Service when using URLValidator (similar to S2-044 & S2-047) |×
 S2-051 | A remote attacker may create a DoS attack by sending crafted xml request when using the Struts REST plugin |×
-S2-052 | Possible Remote Code Execution attack when using the Struts REST plugin with XStream handler to handle XML payloads |×
-S2-053 | A possible Remote Code Execution attack when using an unintentional expression in Freemarker tag instead of string literals |×
+S2-052 | Possible Remote Code Execution attack when using the Struts REST plugin with XStream handler to handle XML payloads |√
+S2-053 | A possible Remote Code Execution attack when using an unintentional expression in Freemarker tag instead of string literals |√
 S2-054 | A crafted JSON request can be used to perform a DoS attack when using the Struts REST plugin |×
-S2-055 | A RCE vulnerability in the Jackson JSON library |×
+S2-055 | A RCE vulnerability in the Jackson JSON library |√
 S2-056 | A crafted XML request can be used to perform a DoS attack when using the Struts REST plugin |×
-S2-057 | Possible Remote Code Execution when alwaysSelectFullNamespace is true (either by user or a plugin like Convention Plugin) and then: results are used with no namespace and in same time, its upper package have no or wildcard namespace and similar to results, same possibility when using url tag which doesn’t have value and action set and in same time, its upper package have no or wildcard namespace. |×
+S2-057 | Possible Remote Code Execution when alwaysSelectFullNamespace is true (either by user or a plugin like Convention Plugin) and then: results are used with no namespace and in same time, its upper package have no or wildcard namespace and similar to results, same possibility when using url tag which doesn’t have value and action set and in same time, its upper package have no or wildcard namespace. |√
 
 
 注：预计2019/06/01之前 上传完所有漏洞环境 (源代码/war)
