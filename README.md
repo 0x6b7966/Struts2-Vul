@@ -1,5 +1,3 @@
-# 预计2019/06/01之前 上传完所有漏洞环境 (源代码/war)
-
 ## （Security Bulletins）
 
 Id | Describe | State 
@@ -15,3 +13,4 @@ S2-007|User input is evaluated as an OGNL expression when there's a conversion e
 S2-008|Multiple critical vulnerabilities in Struts2|×
 S2-009|ParameterInterceptor vulnerability allows remote command execution|√
 
+注：预计2019/06/01之前 上传完所有漏洞环境 (源代码/war)
