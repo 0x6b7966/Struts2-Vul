@@ -3,7 +3,7 @@
 ## Apache Struts2官方安全公告
 
 Id | Describe | State 
-- | :-: | -: 
+-------| :--------: | -------------: 
 Harry Potter | Gryffindor| 90 
 Hermione Granger | Gryffindor | 100 
 Draco Malfoy | Slytherin | 90
