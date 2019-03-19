@@ -1,6 +1,6 @@
 ## （Security Bulletins）
 
-Id | :Describe: | State 
+Id | Describe | State 
 :----:|:---------------------------------------|:-:
 DevMode | Apache-Struts2 DevMode RCE |√
 S2-001 | Remote code exploit on form validation error |√
