@@ -62,4 +62,4 @@ S2-056 | A crafted XML request can be used to perform a DoS attack when using th
 S2-057 | Possible Remote Code Execution when alwaysSelectFullNamespace is true (either by user or a plugin like Convention Plugin) and then: results are used with no namespace and in same time, its upper package have no or wildcard namespace and similar to results, same possibility when using url tag which doesn’t have value and action set and in same time, its upper package have no or wildcard namespace. |√
 
 
-（注：预计2019/06/01之前 上传完所有RCE漏洞环境 (源代码/war),后期慢慢完善RCE以外的环境。）
+（注：预计2019/10/01之前 上传完所有RCE漏洞环境 (源代码/war),后期慢慢完善除了RCE其他的环境。）
